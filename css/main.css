@@ -1,3 +1,17 @@
 body {
 	background-color: blanchedalmond;
+	margin: 0;
+	padding: 0;
+}
+
+#board {
+	width: 100vw;
+	height: 100vh;
+	background-color: rgb(216, 197, 232);
+	position: relative;
+}
+
+#player {
+	background-color: rgb(222, 56, 164);
+	position: absolute;
 }
